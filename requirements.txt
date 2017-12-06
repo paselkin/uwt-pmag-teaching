@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+matplotlib.pyplot
+pmagpy.ipmag
+pmagpy.pmag
+pmagpy.pmagplotlib
+scipy.stats.kde
